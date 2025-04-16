@@ -18,7 +18,7 @@
 ## 🛠 Development Tools
 - Engine: GDevelop
 - Art Style: Retro (8-bit)
-- Audio Tools: Cubase, Logic Pro
+- Audio Tools: Cubase, Logic Pro, SuperCollider, FL
 
 ##  Screenshots / DevTest
 <img src="https://github.com/user-attachments/assets/4c28d76d-deb1-46be-b02a-59bf5decf69a" height="360" width="640">
