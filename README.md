@@ -1,5 +1,5 @@
 # Twardy 2.0
-##Credits:
+## Credits:
 * Creator: 99 Studios
 * Game Designer: Cluelessluke
 * Narrative Designer: Sam (adi01131)
