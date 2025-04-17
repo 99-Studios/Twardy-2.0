@@ -10,7 +10,8 @@
 * Playtesters: Ambytar, Shadowbrine, Yhac10
 * Playtesters Evaluator: Moon <3
 * Project Organizer: Infinity
-##  Description: The official sequel to Twardy, Twardy 2.0 is a place where you can build, explore, fight, and meet NPCs where your only limit is your imagination!
+##  Description:
+The official sequel to Twardy, Twardy 2.0 is a place where you can build, explore, fight, and meet NPCs where your only limit is your imagination!
 ##  Features
 1. Sandbox-survival game
 2. Mass Exploration
